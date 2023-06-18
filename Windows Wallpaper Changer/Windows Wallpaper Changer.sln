@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Windows Wallpaper Changer", "Windows Wallpaper Changer.csproj", "{47079D5A-070E-4936-99C8-8C25EA1960D0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WWC_Installer", "..\WWC_Installer\WWC_Installer.vdproj", "{8C90CA84-C41C-4E7D-932C-502EB97328B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47079D5A-070E-4936-99C8-8C25EA1960D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47079D5A-070E-4936-99C8-8C25EA1960D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47079D5A-070E-4936-99C8-8C25EA1960D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47079D5A-070E-4936-99C8-8C25EA1960D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C90CA84-C41C-4E7D-932C-502EB97328B0}.Debug|Any CPU.ActiveCfg = Debug
+		{8C90CA84-C41C-4E7D-932C-502EB97328B0}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76D0CD4E-4560-488D-8DB6-37EDA62979E7}
+	EndGlobalSection
+EndGlobal

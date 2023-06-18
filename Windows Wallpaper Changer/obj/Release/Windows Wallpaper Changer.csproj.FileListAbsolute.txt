@@ -1,0 +1,11 @@
+C:\Users\Yuuya\source\repos\Windows Wallpaper Changer\bin\Release\Windows Wallpaper Changer.exe.config
+C:\Users\Yuuya\source\repos\Windows Wallpaper Changer\bin\Release\Windows Wallpaper Changer.exe
+C:\Users\Yuuya\source\repos\Windows Wallpaper Changer\bin\Release\Windows Wallpaper Changer.pdb
+C:\Users\Yuuya\source\repos\Windows Wallpaper Changer\obj\Release\Windows Wallpaper Changer.csproj.AssemblyReference.cache
+C:\Users\Yuuya\source\repos\Windows Wallpaper Changer\obj\Release\Windows Wallpaper Changer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yuuya\source\repos\Windows Wallpaper Changer\obj\Release\Windows_Wallpaper_Changer.Form1.resources
+C:\Users\Yuuya\source\repos\Windows Wallpaper Changer\obj\Release\Windows_Wallpaper_Changer.Properties.Resources.resources
+C:\Users\Yuuya\source\repos\Windows Wallpaper Changer\obj\Release\Windows Wallpaper Changer.csproj.GenerateResource.cache
+C:\Users\Yuuya\source\repos\Windows Wallpaper Changer\obj\Release\Windows Wallpaper Changer.csproj.CoreCompileInputs.cache
+C:\Users\Yuuya\source\repos\Windows Wallpaper Changer\obj\Release\Windows Wallpaper Changer.exe
+C:\Users\Yuuya\source\repos\Windows Wallpaper Changer\obj\Release\Windows Wallpaper Changer.pdb
