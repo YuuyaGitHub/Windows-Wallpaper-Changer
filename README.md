@@ -8,3 +8,6 @@ I'm using WinAPI's ```SystemParametersInfo``` function.
 
 # How to use
 Enter the full path of the file you want to set as wallpaper in the text box. (Alternatively, you can browse to the file by clicking the "Browse" button)
+
+# Appearance
+If you want to know what it looks like, watch the video below: https://www.youtube.com/watch?v=UhUiFhmuWjY
